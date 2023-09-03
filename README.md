@@ -1,4 +1,4 @@
-# callumQ2
+# First-Unique-Token
 
 A very quick and messy possible solution to Callum McDougall's august 2023 transformer interp problem.
 
